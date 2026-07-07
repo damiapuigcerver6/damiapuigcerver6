@@ -104,19 +104,6 @@ Integration and analysis of match/player data from Europe's top 5 football leagu
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=damiapuigcerver6&show_icons=true&theme=default&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=damiapuigcerver6&layout=compact&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=damiapuigcerver6&hide_border=true" />
-</p>
-
----
-
 <p align="center">
   📫 Reach me at <a href="mailto:damiapuigcerver6@gmail.com">damiapuigcerver6@gmail.com</a> or on <a href="https://www.linkedin.com/in/damia-puigcerver-4906303a2/">LinkedIn</a>
 </p>
