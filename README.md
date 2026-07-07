@@ -68,35 +68,6 @@ I'm currently studying for a **Bachelor's Degree in Data Science** at the **Univ
 
 ---
 
-### 📌 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-**[🏃 Athletic Performance Pipeline](https://github.com/marcmenendezz/Athletic-Performance-Pipeline)**
-
-End-to-end data pipeline analyzing 100m sprint performance in Spanish athletics, exploring correlations with regional wealth and city altitude. Includes automated web scraping (Selenium/BeautifulSoup), statistical analysis (Pearson correlation), and a TCP socket client-server query system.
-
-`Python` `Selenium` `Pandas` `Seaborn`
-
-</td>
-<td width="50%">
-
-**[⚽ European Football Analytics](https://github.com/marcmenendezz/european-football-analytics)**
-
-Integration and analysis of match/player data from Europe's top 5 football leagues. Uses unsupervised learning (K-means, hierarchical clustering) to identify team playstyles, quantify the home advantage effect, and detect player salary/performance anomalies.
-
-`R` `tidyverse` `Clustering` `ggplot2`
-
-</td>
-</tr>
-</table>
-
-> Both projects were built in collaboration with [@marcmenendezz](https://github.com/marcmenendezz) and Raul Casanova Arlandís as part of my Data Science degree at UPV.
-
----
-
 ### 🗣️ Languages
 
 - 🇪🇸 Spanish — Native
