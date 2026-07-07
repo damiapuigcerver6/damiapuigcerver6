@@ -100,7 +100,7 @@ Integration and analysis of match/player data from Europe's top 5 football leagu
 ### 🗣️ Languages
 
 - 🇪🇸 Spanish — Native
-- 🇬🇧 English — *(add your level here)*
+- 🇬🇧 English — C1 by Cambridge
 
 ---
 
